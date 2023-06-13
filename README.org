@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-clim.git   |
-| commit  | {"messa  |
+| commit  | bc351a4  |
 | systems | vellum-clim |
 |---------+-------------------------------------------|
 
