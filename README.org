@@ -1,10 +1,7 @@
 * vellum-clim
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sirherrbatka/vellum-clim.git   |
-| commit  | bc351a4  |
-| systems | vellum-clim |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/vellum-clim.git |
+| commit  | bc351a4                                             |
+| systems | vellum-clim                                         |
+|---------+-----------------------------------------------------|
